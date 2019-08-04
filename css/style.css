@@ -64,3 +64,8 @@ h4 {
   border: 2px solid gray;
   box-sizing: border-box;
 }
+
+.container .column .medium {
+   border: 2px solid gray;
+  box-sizing: border-box;
+}
