@@ -66,6 +66,11 @@ h4 {
 }
 
 .container .column .med {
-   border: 2px solid gray;
+  border: 2px solid gray;
+  box-sizing: border-box;
+}
+
+.container .column .large {
+  border: 2px solid gray;
   box-sizing: border-box;
 }
