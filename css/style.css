@@ -62,6 +62,7 @@ h4 {
   border: 15px solid purple; 
 }
 
-.amiable .column .img {
+ .img {
+  border: 15px solid purple;
   box-sizing: border-box;
 }
